@@ -14,5 +14,5 @@
 3. Run `index.html` in a browser
 
 ## 🙌 Author
-Made with ❤️ by [Anusha](https://github.com/anushavalluri22);
+Made with ❤️ by [Abinayateja](https://github.com/abinayateja533);
 
